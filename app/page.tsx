@@ -178,7 +178,7 @@ export default function Home() {
             <div className="text-center mb-16">
               <Badge className="bg-gradient-to-r from-[#E8D5FF] to-[#FFD4C4] text-[#6B46C1] dark:text-gray-200 border-none mb-4">
                 <Users className="w-3 h-3 mr-1" />
-                Get to know me better
+                Get to know me
               </Badge>
               <h2 className="text-4xl font-bold text-[#6B46C1] dark:text-gray-200 mb-4">About Me</h2>
               <div className="w-24 h-1 bg-gradient-to-r from-[#F8BBD9] to-[#E8D5FF] mx-auto rounded-full" />
@@ -190,7 +190,7 @@ export default function Home() {
                   My Story
                 </h3>
                 <p className="text-[#6B46C1]/80 dark:text-gray-300 leading-relaxed">
-                  Hello! I'm Fariha Tasnim Punni, a passionate design enthusiast currently pursuing Information
+                  Hello! I'm Fariha Tasnim Punni, a passionate design enthusiast currently pursuing Bachelor of Science in   Information
                   Technology and Management at Daffodil International University. My journey into UI/UX design began
                   with a simple fascination: how can we make technology more human?
                 </p>
