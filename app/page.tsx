@@ -123,8 +123,8 @@ export default function Home() {
                     <ArrowRight className="w-5 h-5 ml-2" />
                   </Button>
                   <Button
-                    size="lg"
-                    variant="outline"
+                    variant='outline'
+                    size='lg'
                     className="border-2 border-[#F8BBD9] text-[#6B46C1] hover:bg-[#F8BBD9] hover:text-white transition-all duration-300"
                   >
                     <Coffee className="w-5 h-5 mr-2" />
@@ -449,7 +449,7 @@ export default function Home() {
                         <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
                           <h3 className="text-xl font-semibold text-white mb-2">Project Title {item}</h3>
                           <p className="text-white/80 text-sm mb-4">UI/UX Design • Branding</p>
-                          <Button variant="outline" className="bg-white/10 hover:bg-white/20 text-white border-white/20">
+                          <Button variant='outline' className="bg-white/10 hover:bg-white/20 text-white border-white/20">
                             View Project
                             <ExternalLink className="w-4 h-4 ml-2" />
                           </Button>
@@ -474,7 +474,7 @@ export default function Home() {
                         <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
                           <h3 className="text-xl font-semibold text-white mb-2">UI Design {item}</h3>
                           <p className="text-white/80 text-sm mb-4">User Interface Design</p>
-                          <Button variant="outline" className="bg-white/10 hover:bg-white/20 text-white border-white/20">
+                          <Button variant='outline' className="bg-white/10 hover:bg-white/20 text-white border-white/20">
                             View Project
                             <ExternalLink className="w-4 h-4 ml-2" />
                           </Button>
@@ -499,7 +499,7 @@ export default function Home() {
                         <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
                           <h3 className="text-xl font-semibold text-white mb-2">UX Design {item}</h3>
                           <p className="text-white/80 text-sm mb-4">User Experience Design</p>
-                          <Button variant="outline" className="bg-white/10 hover:bg-white/20 text-white border-white/20">
+                          <Button variant='outline' className="bg-white/10 hover:bg-white/20 text-white border-white/20">
                             View Project
                             <ExternalLink className="w-4 h-4 ml-2" />
                           </Button>
@@ -524,7 +524,7 @@ export default function Home() {
                         <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
                           <h3 className="text-xl font-semibold text-white mb-2">Branding {item}</h3>
                           <p className="text-white/80 text-sm mb-4">Brand Identity Design</p>
-                          <Button variant="outline" className="bg-white/10 hover:bg-white/20 text-white border-white/20">
+                          <Button variant='outline' className="bg-white/10 hover:bg-white/20 text-white border-white/20">
                             View Project
                             <ExternalLink className="w-4 h-4 ml-2" />
                           </Button>
