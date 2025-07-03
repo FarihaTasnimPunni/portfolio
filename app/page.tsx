@@ -178,7 +178,7 @@ export default function Home() {
             <div className="text-center mb-16">
               <Badge className="bg-gradient-to-r from-[#E8D5FF] to-[#FFD4C4] text-[#6B46C1] dark:text-gray-200 border-none mb-4">
                 <Users className="w-3 h-3 mr-1" />
-                Get to know me
+                Get to know me better
               </Badge>
               <h2 className="text-4xl font-bold text-[#6B46C1] dark:text-gray-200 mb-4">About Me</h2>
               <div className="w-24 h-1 bg-gradient-to-r from-[#F8BBD9] to-[#E8D5FF] mx-auto rounded-full" />
