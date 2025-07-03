@@ -111,7 +111,7 @@ export default function Home() {
                 </div>
                 <p className="text-lg text-[#6B46C1]/70 leading-relaxed">
                   I'm a Information Technology and Management student at Daffodil International University, specializing in creating
-                  intuitive and visually stunning digital experiences that users love.
+                  intuitive and visually stunning digital experiences that users love and want to use.
                 </p>
                 <div className="flex flex-wrap gap-4">
                   <Button
